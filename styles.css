@@ -1,1 +1,26 @@
+body  {
+    background-image: url("");
+    background-color: #cccccccc;
+}
+#header { 
+    background-color: Black;
+    color: White;
+}
+.individual_pet {
+    background-color: none;
+}
+h1 {
+    text-align: center;
+}
 
+h4 {
+    text-align: center;
+}
+
+html { 
+  background: url(http://i0.kym-cdn.com/photos/images/original/000/046/176/FLYCAT.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
